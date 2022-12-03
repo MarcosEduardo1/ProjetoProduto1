@@ -17,4 +17,5 @@ CREATE TABLE produto (
 CREATE TABLE estoque (
 
 produtoID int NOT NULL PRIMARY KEY,
+
  quantidade int )
